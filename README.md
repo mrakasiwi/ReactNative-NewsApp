@@ -3,6 +3,10 @@ Aplikasi Android untuk menampilkan Berita Indonesia terbaru dalam tiga kategori,
 
 
 
+# MHS
+Muhamad Rakasiwi Makkah
+55201220025
+
 
 
 # To Install 
