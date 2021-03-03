@@ -11,7 +11,9 @@ Muhamad Rakasiwi Makkah
 
 # To Install 
 npm install
+
 npm install --save native-base moment react-native-webview react-navigation react-native-gesture-handler  
+
 react-native link
 
 react-native run-android
